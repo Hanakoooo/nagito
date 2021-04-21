@@ -33,4 +33,4 @@ client.on('message', message => {
 
 //made by Hanako#0007 !
 
-client.login('ODM0MjUwNDIxMjc0NDExMDI5.YH-KQA.LT6U3u9Ey3RYDruxWP2CrZVTYC4');
+client.login('insert-bot-token-here');
